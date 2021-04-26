@@ -1,0 +1,163 @@
+
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #40514e;
+
+}
+
+h1{
+  margin-top: 50px auto 0 auto;
+  padding-top: 100px;
+  font-family: 'Roboto', cursive;
+  font-size: 500%;
+  color: #66BFBF;
+}
+
+h2{
+  font-size: 2rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-size: 1.3rem;
+  color: #11999E;
+}
+
+hr{
+  height: 0px;
+  border-width: 7px;
+  border-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-color: #EAF6F6;
+  width: 60px;
+}
+
+p{
+  line-height: 2;
+
+}
+
+
+.intro_text{
+  width: 30%;
+  margin: auto;
+  padding: 50px;
+}
+
+.top_container{
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  padding: 40px;
+  background-color: #66BFBF;
+
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.code_skill_desc{
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.radar{
+  float: left;
+
+}
+
+.tools{
+  float: right;
+}
+
+.btn{
+  margin: 20px;
+  color: #11999E;
+}
+
+.contactme{
+  width: 40%;
+  margin: auto;
+}
+
+a{
+  color:#11999E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+.footer-link{
+  margin: 20px;
+}
+
+.copyright{
+  color: white;
+  font-size: 15px;
+  margin: auto;
+}
+
+.BUTTON_PNI {
+
+  margin: 30px;
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Noto Sans JP', sans-serif;
+   font-size: 20px;
+   font-weight: 200;
+   padding: 15px;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_PNI:hover {
+   border: solid #39B1AC 0;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
